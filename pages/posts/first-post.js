@@ -15,12 +15,6 @@ export default function FirstPost() {
             <a>Back to home</a>
           </Link>
         </h2>
-        <Image
-          src="/images/profile.jpg"
-          height={144}
-          width={144}
-          alt="Your Name"
-        />
       </Layout>
   )
 }
